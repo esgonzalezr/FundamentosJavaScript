@@ -19,7 +19,7 @@ var mapItemsArray = itemArray.map(function (x) {
   return x.cost;
 });
 
-//Example 2: In this example, map method loops the array and print each element
+//Example 2: In this example, map method loops the array.
 array = [1, 2, 3, 1, 2, 3, 4, 1];
 x = array.map(function (element){
     console.log(element);

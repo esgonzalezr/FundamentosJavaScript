@@ -19,4 +19,4 @@ var position = frutas.indexOf("pera");
 //Method reduce(): Sum all elements of an array. The callback function should receive two parameters: previousValue and currentValue (or nextValue).
  var sumatoryArray = inArray.reduce(function(previousValue, currentValue){
     return previousValue + currentValue;
-  });
+  })
